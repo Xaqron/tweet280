@@ -57,3 +57,7 @@ interval = setInterval(function(){
 },500);
 ```
 > - به سایت [توییت دک](https://tweetdeck.twitter.com) (متعلق به توییتر و زیر دامنه آن است) رفته و با فعال بودن اسکریپت اقدام به ارسال توییت نمایید.
+
+
+![اسکریپت](https://github.com/Xaqron/tweet280/blob/master/img/1.png)
+![ارسال توییت](https://github.com/Xaqron/tweet280/blob/master/img/4.png)
